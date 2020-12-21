@@ -10,3 +10,18 @@
 ![image](https://user-images.githubusercontent.com/74230474/102796569-d1256400-43f1-11eb-92ee-481ee0b34bbe.png) get out 
 ![image](https://user-images.githubusercontent.com/74230474/102796676-f3b77d00-43f1-11eb-9c9c-5af0764e9ffd.png) 그린 북 
 ![image](https://user-images.githubusercontent.com/74230474/102796850-337e6480-43f2-11eb-8d26-d290b43a5636.png) 히든 피겨스 
+
+#### 피벗테이블
+![image](https://user-images.githubusercontent.com/74230474/102797887-a5a37900-43f3-11eb-8598-9d8df74e8360.png) get out (명사)
+
+![image](https://user-images.githubusercontent.com/74230474/102797608-46ddff80-43f3-11eb-9c23-e1f8daab6f05.png) get out (형용사)
+
+![image](https://user-images.githubusercontent.com/74230474/102797710-6ecd6300-43f3-11eb-906b-b88e030a3ca2.png) 그린 북 (명사)
+
+![image](https://user-images.githubusercontent.com/74230474/102797956-bf44c080-43f3-11eb-8df1-4a6d0866b8c4.png) 그린 북 (형용사)
+
+![image](https://user-images.githubusercontent.com/74230474/102797984-cbc91900-43f3-11eb-845b-dc8236cb679b.png) 히든 피겨스 (명사)
+
+![image](https://user-images.githubusercontent.com/74230474/102797733-7a208e80-43f3-11eb-9232-b98ab83c5c24.png) 히든 피겨스 (동사)
+
+![image](https://user-images.githubusercontent.com/74230474/102798010-d71c4480-43f3-11eb-8c37-b7b0722eebe2.png) 히든 피겨스 (형용사)
