@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/74230474/102796676-f3b77d00-43f1-11eb-9c9c-5af0764e9ffd.png) 그린 북 
 ![image](https://user-images.githubusercontent.com/74230474/102796850-337e6480-43f2-11eb-8d26-d290b43a5636.png) 히든 피겨스 
 
-#### 피벗테이블
+#### -피벗테이블(동사, 형용사, 명사)
 ![image](https://user-images.githubusercontent.com/74230474/102797887-a5a37900-43f3-11eb-8598-9d8df74e8360.png) get out (명사)
 
 ![image](https://user-images.githubusercontent.com/74230474/102797608-46ddff80-43f3-11eb-9c23-e1f8daab6f05.png) get out (형용사)
@@ -25,3 +25,5 @@
 ![image](https://user-images.githubusercontent.com/74230474/102797733-7a208e80-43f3-11eb-9232-b98ab83c5c24.png) 히든 피겨스 (동사)
 
 ![image](https://user-images.githubusercontent.com/74230474/102798010-d71c4480-43f3-11eb-8c37-b7b0722eebe2.png) 히든 피겨스 (형용사)
+
+get out과 그린 북에서는 동사에 대한 피벗 테이블에서는 크게 유의미한 결과를 찾기가 힘들어서 참고하지 않았다.
